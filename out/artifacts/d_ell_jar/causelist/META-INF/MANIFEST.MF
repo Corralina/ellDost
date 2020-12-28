@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: dzh.vn.ua.voas.causelist.Main
+
+Name: common
+Implementation-Title: MySQL Connector/J
+Implementation-Version: 5.0.8
+Specification-Vendor: Sun Microsystems Inc.
+Specification-Title: JDBC
+Implementation-Vendor-Id: com.mysql
+Specification-Version: 3.0
+Implementation-Vendor: MySQL AB
+
